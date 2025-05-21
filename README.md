@@ -1,4 +1,4 @@
-# EEP Communication Portal App (Frontend)
+# EEP Communication Portal App
 
 This repository contains the source code for the EEP Communication Portal application. This application is designed to serve as a central platform for communication and information management within Ethiopian Electric Power (EEP).
 
